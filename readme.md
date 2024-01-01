@@ -5,6 +5,7 @@ Components:
 - 1x 608Z bearing
 - 1x **printed** end support block for 10 mm chrome steel rails, including
 - 4x M3x4 heat-set inerts
+- replacement for StepDrv v2.1 motor drivers or current adjustment (right after replacing, the current is too low)
 
 ![](img/002.jpg)
 
